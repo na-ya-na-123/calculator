@@ -43,3 +43,7 @@ P{
 .button:hover{
     border: 5px solid greenyellow;
 }
+@media screen {
+    max-width: 500px;
+    
+}
